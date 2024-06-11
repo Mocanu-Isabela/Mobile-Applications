@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189523363158",
+    "project_id": "fir-cooliocrud",
+    "storage_bucket": "fir-cooliocrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189523363158:android:f61165e734c72565ca02f7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189523363158-dd1cuhsai05nan2vjdo4kv6jnc21ieiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQtwAM2PZXBSoPSNVZowTv_yXelw4YNQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189523363158-dd1cuhsai05nan2vjdo4kv6jnc21ieiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
